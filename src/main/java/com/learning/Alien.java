@@ -45,7 +45,7 @@ public class Alien {
 
     @Override
     public String toString() {
-        return "Allien{" +
+        return "Alien{" +
                 "aid=" + aid +
                 ", aname='" + aname + '\'' +
                 ", tech='" + tech + '\'' +
